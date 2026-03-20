@@ -3,7 +3,7 @@
 ![Innovation](https://img.shields.io/badge/Innovation-Creative%20Design-FF5733?style=for-the-badge&logo=artstation)  
 ![Platform](https://img.shields.io/badge/HitRecord-Org-1DA1F2?style=for-the-badge&logo=hitrecord)  
 
-![Description of Image](https://imgur.com/a/YiWc0cW)
+![Description of Image]([https://imgur.com/a/YiWc0cW](https://imgur.com/a/YiWc0cW))
 
 ## 🏆 Emmy Award Recognition
 We proudly won an **Emmy Award** for **Outstanding Innovation in Interactive Programming**. This award recognized our achievements in:  
