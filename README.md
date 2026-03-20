@@ -6,7 +6,7 @@
 ![Description of Image](https://i.imgur.com/hZd5K7r.png)
 
 ## 🏆 Emmy Award Recognition
-We proudly won an **Emmy Award** for **Outstanding Innovation in Interactive Programming**. This award recognized our achievements in:  
+We (that includes me: Brian Dodd) proudly won an **Emmy Award** for **Outstanding Innovation in Interactive Programming**. This award recognized our achievements in:  
 - Creative Arts  
 - Creative and Digital Design  
 - Team Collaboration  
